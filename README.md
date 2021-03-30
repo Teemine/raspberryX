@@ -8,7 +8,7 @@ Useful Commands
 - sudo chmod 777 <file>
 - Versions of raspberry :
 
-- Computer : No screensaver/Background
-- Raspberry : No screensaver/Background !LATEST
-- RaspberryX : Screensaver/Background !LATEST
-- Profile : Fix for non looping startup
+- Computer : No screensaver/Background : URL - https://bit.ly/3m5UD1K
+- Raspberry : No screensaver/Background !LATEST : URL - https://bit.ly/3fqjRql
+- RaspberryX : Screensaver/Background !LATEST : URL - 
+- Profile : Fix for non looping startup : URL - 
