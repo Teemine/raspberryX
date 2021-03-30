@@ -11,3 +11,4 @@ Useful Commands
 - Computer : No screensaver/Background
 - Raspberry : No screensaver/Background !LATEST
 - RaspberryX : Screensaver/Background !LATEST
+- Profile : Fix for non looping startup
