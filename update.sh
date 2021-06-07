@@ -4,3 +4,4 @@ wget "https://bit.ly/${link}"
 echo 'A' | unzip $link
 chmod 777 installation.sh
 sudo ./installation.sh
+sudo rm $link
