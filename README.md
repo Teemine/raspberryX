@@ -12,3 +12,4 @@ Useful Commands
 - Raspberry : No screensaver/Background !LATEST : URL - https://bit.ly/3fqjRql
 - RaspberryX : Screensaver/Background !LATEST : URL - https://bit.ly/39nZ7M3
 - Profile : Fix for non looping startup : URL - https://bit.ly/2QRE3aA
+- Update/Download File : Easier way to update/download files : URL - https://bit.ly/3x78cST
