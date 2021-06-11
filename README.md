@@ -6,7 +6,7 @@ Useful Commands
 - sudo apt-get install unzip
 - sudo sed -i -e 's/\r$//' <file>
 - sudo chmod 777 <file>
-- Versions of the thinclient :
+- Versions of the thin clients :
 
 - Computer : No screensaver/Background !LATEST : URL - https://bit.ly/3m5UD1K
 - Raspberry : No screensaver/Background !LATEST : URL - https://bit.ly/3fqjRql
